@@ -1,2 +1,4 @@
 # WotLK-SVR
- TrinityCore based WoW Server
+<br>
+<br>
+ <b>TrinityCore based WoW Server</b>
